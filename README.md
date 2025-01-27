@@ -8,7 +8,9 @@ This repository contains:
 * C Programs
 * Lab Record
 
-I must admit, I belive that I  <b>gained a better understanding of Algorithms and Programming in C</b> over the years, than when I was in the first semester.
+back from Semester 1 of University.
+
+I must admit, I belive that I have <b>gained a better understanding of Algorithms and Programming in C</b> over the years, than when I was in the first semester.
 
 I learned good coding practices such as:
 * <b>Describing the code functionality</b> at the top of the file.
